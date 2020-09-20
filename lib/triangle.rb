@@ -32,6 +32,3 @@ class Triangle
   end
 
 end
-
-
-
